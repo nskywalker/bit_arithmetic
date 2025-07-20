@@ -1,7 +1,4 @@
-#include <iostream>
 #include <print>
-#include <bits/ostream.tcc>
-
 #include "getones.h"
 #include "chess.h"
 

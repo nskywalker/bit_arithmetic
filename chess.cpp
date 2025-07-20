@@ -30,7 +30,5 @@ uint64_t getHorseSteps(uint64_t bb)
     steps |= (bb & 0x7F7F7F7F7F7F7F7F) >> 15;
     steps |= (bb & 0x7F7F7F7F7F7F7F7F) >> 6;
 
-
-
     return steps;
 }
